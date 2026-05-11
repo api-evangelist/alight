@@ -20,6 +20,10 @@ common:
     url: https://www.alight.com
   - type: Contact
     url: https://www.alight.com/contact-us
+  - type: Integrations
+    url: https://www.alight.com/partners
+integrations:
+  - name: Alight Partner Network
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
