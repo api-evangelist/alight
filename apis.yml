@@ -16,6 +16,8 @@ created: '2026-05-04'
 modified: '2026-05-04'
 specificationVersion: '0.19'
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/alightsolutions
   - type: Website
     url: https://www.alight.com
   - type: Contact
