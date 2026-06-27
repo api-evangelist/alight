@@ -24,7 +24,7 @@ common:
     url: https://www.alight.com/contact-us
   - type: Integrations
     url: https://www.alight.com/partners
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.alight.com/llms.txt
 integrations:
   - name: Alight Partner Network
