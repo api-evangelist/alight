@@ -3,6 +3,17 @@ aid: alight
 url: https://github.com/api-evangelist/alight
 name: Alight
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.alight.com/favicon.ico
 tags:
   - Human Resources
